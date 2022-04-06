@@ -1,7 +1,12 @@
-package at.jku.kv.ple;
+/*
+ * Copyright (c) 2022 Johannes Kepler University Linz
+ *
+ * Contributors:
+ *   Hafiyyan Sayyid Fadhlillah -- initial implementation
+ *
+ */
 
-import at.jku.kv.ple.strategy.EPLEvalOperation;
-import at.jku.kv.ple.strategy.EPLPrintOperation;
+package at.jku.kv.ple;
 
 import java.util.Objects;
 
